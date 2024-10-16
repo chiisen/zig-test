@@ -1,2 +1,6 @@
-.zig-cache/
-zig-out/
+/*.exe
+/*.obj
+/*.pdb
+/.zig-cache
+/zig-cache
+/zig-out
